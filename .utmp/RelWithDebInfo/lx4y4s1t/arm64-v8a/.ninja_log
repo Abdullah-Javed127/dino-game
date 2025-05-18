@@ -1,0 +1,12 @@
+# ninja log v5
+263	2190	7690037487229695	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8eebbdfc27cd343
+2193	3611	7690037499000039	C:/game dev/dino game/dino game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/lx4y4s1t/obj/arm64-v8a/libswappywrapper.so	af45a1e522911d1f
+18	3660	7690037502154822	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5b8d37f2861f56ee
+55	3684	7690037502362529	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e615a64b1f289de1
+219	3862	7690037503278251	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c30ed122f213158b
+242	3883	7690037504602236	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2651c600e374ed8a
+72	3955	7690037505162205	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7d6c0fdd5ea85307
+32	4076	7690037506454125	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	46d3bb0f705787c
+93	4668	7690037512423762	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3fb09a0e0f779b3a
+2	5149	7690037517167233	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	aa24b7d7964f547a
+5150	5419	7690037520022296	C:/game dev/dino game/dino game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/lx4y4s1t/obj/arm64-v8a/libgame.so	7f24a867cf35c9a7
